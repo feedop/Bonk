@@ -1,1 +1,2 @@
-# Spring
+# Bonk
+Spinning cube kinematics simulation
